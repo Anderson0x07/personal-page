@@ -16,7 +16,7 @@
         <pre style="margin-top: 20px;margin-bottom: 0;" id="lista">Nombre: Anderson Adrian Orozco Rolon       Email: andersonadrianorro@ufps.edu.co       Teléfono: 3219238493
     </div>
 
-    <h1 id="titulos">PÁGINA DE PRUEVBA</h1>
+    <h1 id="titulos">PÁGINA DE INICIO</h1>
     
     <p style="font-size: larger; text-align: center;" >
         <i>A continuación puede navegar por las diferentes paginas para conocer más sobre mi:</i>
